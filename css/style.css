@@ -170,3 +170,23 @@ footer p{
 	margin-bottom: 0;
 }
 
+
+
+@media (max-width:600px){
+	article{
+		margin: 10px 0px;
+	}
+	
+	#cta-products p{
+		margin-right: 0px;
+
+	}
+	
+	#cta-flexibility p{
+		margin-right: 0px;
+	}
+	
+	
+	
+}
+
